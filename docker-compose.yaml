@@ -1,0 +1,12 @@
+services:
+  forum-db:
+    image: postgres:16.3-bullseye
+    container_name: forum-db
+    ports:
+      - 4444:5432
+    environment:
+      POSTGRES_PASSWORD: sbc11@2024
+      POSTGRES_USER: sbc11
+      POSTGRES_DB: forum_db
+    volumes:
+      - D:\SpringBootCourse\docker\sbc11-postgres-data:/var/lib/postgresql/data
