@@ -14,6 +14,7 @@ Welcome to the Forum Template project! This REST API, built with Spring Boot and
 - **Spring Boot**: Framework for building the REST API.
 - **Spring MVC**: Component of Spring Boot for handling HTTP requests and responses.
 - **Postman**: for testing our APIs
+- JDK 21
 - Note: I use static database which will be deleted when terminate the project
 
 ## Getting Started
@@ -24,6 +25,7 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/forum-template.git
+2. **Run the project and test on localhost port 8080**
 ## Test on Postman
 **1. Create Question**
 <div align=center>
