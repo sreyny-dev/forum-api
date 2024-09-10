@@ -27,7 +27,7 @@ To get started with this project, follow these steps:
    git clone https://github.com/your-username/forum-template.git
 2. **Run the project and test on localhost port 8080**
 ## Test on Postman
-**1. Create Question**
+**Example Test on postman: Create Question**
 <div align=center>
 <img src="src/img/createquestion.png" alt="createquestion"/>
 </div>
