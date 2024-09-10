@@ -35,7 +35,7 @@ To get started with this project, follow these steps:
 **Check Result in findAllQuestion**
 
 <div align=center>
-<img src="src/img/checkcreatedq.png" alt="createquestion"/>
+<img src="src/img/checkcreateq.png" alt="createquestion"/>
 </div>
 
 ## Test on Swagger
