@@ -13,7 +13,7 @@ Welcome to the Forum Template project! This REST API, built with Spring Boot and
 
 - **Spring Boot**: Framework for building the REST API.
 - **Spring MVC**: Component of Spring Boot for handling HTTP requests and responses.
-- **Postman**: for testing our APIs
+- **Postman**: for testing APIs
 - JDK 21
 - Note: I use static database which will be deleted when terminate the project
 
