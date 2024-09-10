@@ -39,7 +39,7 @@ To get started with this project, follow these steps:
 ## Test on Swagger
 For detailed API documentation, visit the [Swagger UI](http://localhost:8080/swagger-ui/index.html).
 <div align=center>
-<img src="src/img/swagger.png" alt="createquestion"/>
+<img src="src/img/swagger.png" alt="swagger"/>
 </div>
 
 
