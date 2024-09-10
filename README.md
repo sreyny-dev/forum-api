@@ -32,7 +32,9 @@ To get started with this project, follow these steps:
 <img src="src/img/createquestion.png" alt="createquestion"/>
 </div>
 
-**Check if new question is added in list of Question using findAllQuestion api**
+
+**New question has been added, to conform use findAllQuestion api**
+
 
 <div align=center>
 <img src="src/img/checkcreateq.png" alt="createquestion"/>
