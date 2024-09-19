@@ -24,7 +24,7 @@ To get started with this project, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/sreyny1902/forum-template.git
+   git clone https://github.com/sreyny-dev/forum-template.git
 2. **Run the project and access on localhost default port 8080**
 ## Test on Postman
 **Example Test on postman: Create Question**
